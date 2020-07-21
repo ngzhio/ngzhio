@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on blogging.
 - 🌱 I’m currently learning coding.
-- 📫 How to reach me:
+- 📫 How to reach me: [Blog](https://ngzhio.github.io/), [Twitter](https://twitter.com/ngzhio), [Instagram](https://www.instagram.com/ngzhio/).
