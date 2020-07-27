@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on blogging.
 - 🌱 I’m currently learning coding.
 - 📫 How to reach me: [Blog](https://ngzhio.github.io/), [Twitter](https://twitter.com/ngzhio), [Instagram](https://www.instagram.com/ngzhio/).
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ngzhio)](https://github.com/anuraghazra/github-readme-stats)
